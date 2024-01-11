@@ -5,7 +5,7 @@
 .metadata
 bin/
 tmp/
-taget/
+target/
 *.tmp
 *.bak
 *.swp
