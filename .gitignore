@@ -5,10 +5,13 @@
 .metadata
 bin/
 tmp/
+taget/
 *.tmp
 *.bak
 *.swp
 *~.nib
+*.classpath
+*.project
 local.properties
 .settings/
 .loadpath
