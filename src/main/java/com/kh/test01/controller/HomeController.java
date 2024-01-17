@@ -30,7 +30,7 @@ public class HomeController {
 		System.out.println("a");
 		System.out.println("b");
 		System.out.println("c");
-		System.out.println("ksyksy");
+		System.out.println("ksy");
 		
 		return "home";
 	}
