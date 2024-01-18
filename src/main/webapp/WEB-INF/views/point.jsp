@@ -4,7 +4,7 @@
 <%-- <%@ include file="/WEB-INF/view//include/header.jsp" %> --%>
 	
     <section class="title">
-        <h1>포인트 내역</h1>
+        <h1>포인트 내역 </h1>
     </section>
     <head>
     <style>

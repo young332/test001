@@ -18,7 +18,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
-    <title>결제 페이지</title>
+    <title>결제 페이지 </title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/checkout/">
 
