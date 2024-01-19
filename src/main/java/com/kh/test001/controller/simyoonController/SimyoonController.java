@@ -18,12 +18,10 @@ public class SimyoonController {
 
         
         String myName = "김심윤"; 
-        String engName = "KIMSIMYOON";
 
         
         model.addAttribute("myName", myName);
-        model.addAttribute("engName", engName);
-
+       
         
         return "register";
 		   
